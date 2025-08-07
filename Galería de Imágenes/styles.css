@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: rgb(255, 255, 165);
 }
 
 .image{
@@ -18,3 +18,4 @@ body {
     box-shadow: 2px 3px #888888;
 
 }
+
